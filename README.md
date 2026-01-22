@@ -1,4 +1,13 @@
 ## Hi there 👋
+Cytometry In R
+
+Location: Cambridge, Uk
+
+My Favorite Fluorophore/Metal-Isotope: PE (Old School)
+
+Previous Coding Experience: R course attended during PhD, never used
+
+What I Hope to Get From This Course: A faster and bias-free way for flow analysis
 
 <!--
 **rcolaco-dotcom/rcolaco-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
